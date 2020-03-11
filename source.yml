@@ -1,6 +1,7 @@
 name: envire4mars
 
 imports:
+  - github: envire/envire-package_set
 
 version_control:
   - simulation/envire_managers:
