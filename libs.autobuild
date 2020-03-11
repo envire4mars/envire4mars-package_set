@@ -1,0 +1,4 @@
+cmake_package("simulation/envire_managers")
+cmake_package("simulation/envire_smurf_loader")
+cmake_package("simulation/envire_graphics")
+cmake_package("simulation/envire_visual_debug")

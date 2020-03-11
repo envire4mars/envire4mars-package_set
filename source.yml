@@ -1,0 +1,11 @@
+name: envire4mars
+
+imports:
+
+version_control:
+  - simulation/envire_managers:
+      github: envire4mars/envire_managers
+      branch: envire_2020
+
+  - simulation/.*:
+      github: envire4mars/$PACKAGE_BASENAME
